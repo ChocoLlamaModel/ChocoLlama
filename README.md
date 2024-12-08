@@ -71,7 +71,7 @@ As LoRa parameters we use:
 
 To update this see `src/llama_recipes_path/configs/peft.py`. 
 
-For other hyperparameters used for pretraining, we refer to the paper, to the SLURM scripts in `scripts/` and `src/llama_recipes_path/configs/training.py`.
+For other hyperparameters used for pretraining, we refer to the paper, to the SLURM script `scripts/pretrain_chocollama2_base.slurm` and `src/llama_recipes_path/configs/training.py`.
 
 ## (5) Posttraining
 
