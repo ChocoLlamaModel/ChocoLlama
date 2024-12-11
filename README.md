@@ -6,7 +6,7 @@
 
 This repository contains all code used to develop ChocoLlama, a set of Llama-2/3 based models adapted to Dutch. 
 
-All models can be found on [Hugging Face](https://huggingface.co/ChocoLlama/) and for all details on how all 6 models have been developed and how they perform, we refer to [our paper](some_url). 
+All models can be found on [Hugging Face](https://huggingface.co/ChocoLlama/) and for all details on how all 6 models have been developed and how they perform, we refer to [our paper](https://arxiv.org/pdf/2412.07633).
 
 The code here has been largely inspired by the amazing [llama-recipes repo](https://github.com/meta-llama/llama-recipes). For the most up-to-date code to finetune Llama-based models, we recommend checking out their repo. The code we add here is mostly for transparanecy and reproducibility of the Chocollama models. 
 
@@ -150,7 +150,9 @@ ChocoLlama models were developed mainly by [Matthieu Meeus](https://github.com/m
 
 This project has been made possible through a Tier-1 compute grant from [Vlaams Supercomputer Centrum](https://www.vscentrum.be/) (grant of apx. 40K GPU hours (NVIDIA A100-80GB)). 
 
-If you found this repository useful for your research, kindly cite XXX. 
+If you found this repository useful for your research, kindly cite [our paper on ArXiv](https://arxiv.org/pdf/2412.07633). 
+
+
 
 
 
