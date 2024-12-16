@@ -150,7 +150,16 @@ ChocoLlama models were developed mainly by [Matthieu Meeus](https://github.com/m
 
 This project has been made possible through a Tier-1 compute grant from [Vlaams Supercomputer Centrum](https://www.vscentrum.be/) (grant of apx. 40K GPU hours (NVIDIA A100-80GB)). 
 
-If you found this repository useful for your research, kindly cite [our paper on ArXiv](https://arxiv.org/pdf/2412.07633). 
+If you found this repository useful for your research, kindly cite [our paper on ArXiv](https://arxiv.org/pdf/2412.07633): 
+
+```
+@article{meeus2024chocollama,
+  title={ChocoLlama: Lessons Learned From Teaching Llamas Dutch},
+  author={Meeus, Matthieu and Rath{\'e}, Anthony and Remy, Fran{\c{c}}ois and Delobelle, Pieter and Decorte, Jens-Joris and Demeester, Thomas},
+  journal={arXiv preprint arXiv:2412.07633},
+  year={2024}
+}
+```
 
 
 
